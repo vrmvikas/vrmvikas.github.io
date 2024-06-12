@@ -22,6 +22,6 @@ Brahma, D., Bhattacharya, A., Mahadev, S.N., Asati, A., Verma, V. and Biswas, S.
 
 <hr>
 
-:telephone_receiver: +91 9793141138  
+Phone: +91 9793141138  
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrmvikas)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://vikas.verma1998@gmail.com)
 
