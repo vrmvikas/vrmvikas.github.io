@@ -1,5 +1,5 @@
 ### Vikas Verma
-**Research Assistant**
+**Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore**
 
 #### Rock-Paper-Scissor (Simulation)
 
