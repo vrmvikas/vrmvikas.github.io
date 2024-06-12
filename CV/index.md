@@ -14,7 +14,7 @@
     
     <td> IIIT Allahabad </td>
     <td> 2017 - 2021 </td>
-    <td> M.Tech</td>
+    <td> B.Tech</td>
   </tr>
 </table>
 
