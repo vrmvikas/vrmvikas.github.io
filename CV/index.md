@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://vrmvikas.github.io/"> Home </a>| <a href = "https://vrmvikas.github.io/CV/">CV</a> | <a href="https://vrmvikas.github.io/about/"> about </a>|<a href = "https://vrmvikas.github.io/experimental/"> Experiments</a></div>
+<div style="text-align: right"><a href="https://vrmvikas.github.io/"> Home </a>| <a href = "https://vrmvikas.github.io/CV/">CV</a> | <a href="https://vrmvikas.github.io/about/"> About </a>|<a href = "https://vrmvikas.github.io/experimental/"> Experiments</a></div>
 
 # Curriculum Vitae
 
