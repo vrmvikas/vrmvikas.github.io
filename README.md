@@ -1,4 +1,4 @@
-<div style="text-align: right"> CV </div>
+<div style="text-align: right"> <a href="CV_page.md">CV</a> </div>
 
 ### Vikas Verma 
 **Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore | July 2023-** 
