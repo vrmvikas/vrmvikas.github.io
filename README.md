@@ -1,4 +1,4 @@
-<div style="text-align: right"> <a href="/CV/">CV</a> </div>
+<div style="text-align: right"> <a href="/CV/">CV</a> | <a href="/about/"> about </a>|<a href="experimental"> Experiments</a></div>
 
 ### Vikas Verma 
 **Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore | July 2023-** 
