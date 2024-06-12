@@ -2,8 +2,6 @@
 
 ## Curriculum Vitae
 
-IISc Bangalore | 2021-2023 | M.Tech
-IIIT Allahabad  | 2017-2021  | B.Tech
 
 <table>
   <tr>
@@ -19,6 +17,3 @@ IIIT Allahabad  | 2017-2021  | B.Tech
     <td> M.Tech</td>
   </tr>
 </table>
-
-
-Electronics and Communication Engineering
