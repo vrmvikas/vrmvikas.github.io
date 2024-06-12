@@ -16,6 +16,9 @@
   </tr>
 </table>
 
+- Albeit an Electronics and Communication majors, my interests evolved from Signal Processing to Image Processing, and all classical to modern techniques used in image processing.
+- Machine Learning / Deep Learning form the pillar stones in all such analysis techniques, and as is the trend to not limit the studies in one-domain but encorporate informations from other modalities as well, the next logical step came with growing interests in LLMs / VLMs and NLP in general.
+
 ## Research Works / Academic Projects
 
 ### Multi-modal Fake News Detection
@@ -36,7 +39,10 @@ The project involved the implementation of algorithms for the estimation of diel
 An example of a SAR-Radar image shown in RGB. The three colour channels are each assigned to three different kinds of scattering effect of radio waves, with green channel representing the "Volumetric Scattering", which most closely resembles the scattering pattern of the much prized water-ice. 
 ![DFSAR Image](../include/DFSAR_images/image17.png)
 
-- The long stretched shape of the image is a result of how a SAR-radar would scan the land as it orbits around the moon.
 - Note the green walls which only mostly are seen on/around crater walls - regions which are permanently shadowed from sunlight and hence are most likely to still contain water ice.
+- The long stretched shape of the image is a result of how a SAR-radar would scan the land as it orbits around the moon.
 
 ### RBMLE
+
+- Implementation and study of the **Reward Biased Maximum Likelihood Estimation (RBMLE)** method to solve the “exploration v/s exploitation problem” in adaptive control of Markov Decision Processes in Reinforcement Learning tasks.
+- Modeled the finite-time performance of RBMLE in Reinforcement Learning tasks, involving the problem of optimal control of unknown Markov Decision Processes.
