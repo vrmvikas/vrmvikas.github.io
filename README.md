@@ -1,7 +1,7 @@
 <div style="text-align: right"><a href="https://vrmvikas.github.io/"> Home </a>| <a href = "https://vrmvikas.github.io/CV/">CV</a> | <a href="https://vrmvikas.github.io/about/"> About </a>|<a href = "https://vrmvikas.github.io/experimental/"> Experiments</a></div>
 
 ### Vikas Verma 
-**Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore | July 2023-** 
+**Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore | July 2023 -** 
 
 <table border="0">
  <tr>
