@@ -17,3 +17,9 @@
     <td> M.Tech</td>
   </tr>
 </table>
+
+## Research Works / Academic Projects
+### Multi-modal Fake News Detection 
+### DFSAR Analysis of Chandrayaan-2
+Dual Frequency SAR - (Synthetic Aperture Radar) Analysis
+### RBMLE
