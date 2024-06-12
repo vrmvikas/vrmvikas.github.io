@@ -1,5 +1,5 @@
 ### Vikas Verma
-**Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore**
+**Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore | July 2023-** 
 
 <table border="0">
  <tr>
