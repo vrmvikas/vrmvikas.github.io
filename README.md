@@ -1,1 +1,1 @@
-How quicky are the changes reflected online?
+How quickly are the changes reflected online?
