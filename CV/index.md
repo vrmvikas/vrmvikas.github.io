@@ -2,7 +2,6 @@
 
 # Curriculum Vitae
 
-
 <table>
   <tr>
     <td> IISc Bangalore </td>
@@ -20,16 +19,18 @@
 
 ## Research Works / Academic Projects
 
-### Multi-modal Fake News Detection 
- Developing robust Fake News Detection Frameworks with multi-modal capabilities
+### Multi-modal Fake News Detection
 
-– Developed pipeline for automated curation of Indigenous datasets of fake news using smart webscraping, including pre-processing to extract high-quality data samples
+Developing robust Fake News Detection Frameworks with multi-modal capabilities
+
+– Developed pipeline for automated curation of Indigenous datasets of fake news using smart web-scraping, including pre-processing to extract high-quality data samples
 
 – Fine-tuned CLIP vision-language model, incorporating prompt tuning techniques, which resulted in
 [SOTA accuracy](https://arxiv.org/pdf/2311.16496.pdf). Exploring explainability in fake news detection frameworks incorporating LLMs
 
 
 ### DFSAR Analysis of Chandrayaan-2
+
 Dual Frequency SAR - (Synthetic Aperture Radar) Analysis
 
 The project involved the implementation of algorithms for the estimation of dielectric constants from
