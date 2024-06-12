@@ -10,7 +10,6 @@
     <td rowspan="2"> Electronics and Communication Engineering </td>
   </tr>
   <tr>
-    
     <td> IIIT Allahabad </td>
     <td> 2017 - 2021 </td>
     <td> B.Tech</td>
@@ -27,7 +26,6 @@ Developing robust Fake News Detection Frameworks with multi-modal capabilities
 
 – Fine-tuned CLIP vision-language model, incorporating prompt tuning techniques, which resulted in
 [SOTA accuracy](https://arxiv.org/pdf/2311.16496.pdf). Exploring explainability in fake news detection frameworks incorporating LLMs
-
 
 ### DFSAR Analysis of Chandrayaan-2
 
