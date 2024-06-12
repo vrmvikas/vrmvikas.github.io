@@ -13,8 +13,12 @@ I am working as an RA with IISc Bangalore on a research project funded by CAIR, 
 
 ### Publications / Contributions:
 
-#### Brahma, D., Bhattacharya, A., Mahadev, S.N., Asati, A., Verma, V. and Biswas, S., 2023. Leveraging Out-of-Domain Data for Domain-Specific Prompt Tuning in Multi-Modal Fake News Detection. arXiv preprint arXiv:2311.16496.
+#### Leveraging Out-of-Domain Data for Domain-Specific Prompt Tuning in Multi-Modal Fake News Detection. 
+Brahma, D., Bhattacharya, A., Mahadev, S.N., Asati, A., Verma, V. and Biswas, S., 2023.
 
+<a href=https://arxiv.org/pdf/2311.16496>arXiv preprint arXiv:2311.16496. </a>
+
+<hr>
 
 #### Rock-Paper-Scissor (Simulation)
 
