@@ -7,10 +7,6 @@
 I am currently working as an RA with IISc Bangalore on a research project funded by CAIR, DRDO. My current project involves developing novel techniques in multi-modal domain to detect Fake News. It also involves finetuning large vision-language models and studying/repurposing them for various downstream tasks.</td>
     <td>![Vikas Verma](include/Vikas_2018.jpg)</td>
  </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
 </table>
 
 
