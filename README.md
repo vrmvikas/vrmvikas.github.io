@@ -1,2 +1,1 @@
-This is a readme page.
-Hi.
+How quickly are the changes reflected online?
