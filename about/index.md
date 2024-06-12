@@ -8,7 +8,7 @@
     <td>
 
 I am working as an RA with IISc Bangalore on a research project funded by CAIR, DRDO. My current project involves developing novel techniques in the multi-modal domain to detect Fake News. It also includes finetuning large vision-language models and studying/repurposing them for various downstream tasks.</td>
-    <td><img src="include/Vikas_2018.jpg" alt="Vikas Verma">
+    <td><img src="../include/Vikas_2018.jpg" alt="Vikas Verma">
 </td>
  </tr>
 </table>
