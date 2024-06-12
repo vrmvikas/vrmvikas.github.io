@@ -1,5 +1,6 @@
 ### Vikas Verma
 **Research Assistant  | Image Analysis and Computer Vision Lab, IISc Bangalore**
+I am currently working as an RA with IISc Bangalore on a research project funded by CAIR, DRDO. My current project involves developing novel techniques in multi-modal domain with the purpose of detecting Fake News. 
 
 #### Rock-Paper-Scissor (Simulation)
 
