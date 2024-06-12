@@ -33,4 +33,10 @@ Dual Frequency SAR - (Synthetic Aperture Radar) Analysis
 
 The project involved the implementation of algorithms for the estimation of dielectric constants from Fully Polarimetric SAR Radar Imaging data for reducing ambiguities regarding the presence of Water-Ice in polar lunar craters.
 
+An example of a SAR-Radar image shown in RGB. The three colour channels are each assigned to three different kinds of scattering effect of radio waves, with green channel representing the "Volumetric Scattering", which most closely resembles the scattering pattern of the much prized water-ice. 
+![DFSAR Image](../include/DFSAR_images/image17.png)
+
+- The long stretched shape of the image is a result of how a SAR-radar would scan the land as it orbits around the moon.
+- Note the green walls which only mostly are seen on/around crater walls - regions which are permanently shadowed from sunlight and hence are most likely to still contain water ice.
+
 ### RBMLE
