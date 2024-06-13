@@ -29,20 +29,21 @@ Developing robust Fake News Detection Frameworks with multi-modal capabilities:
 
 - Fine-tuned CLIP vision-language model, incorporating prompt tuning techniques, which resulted in [SOTA accuracy](https://arxiv.org/pdf/2311.16496.pdf).
 - Exploring explainability in fake news detection frameworks incorporating LLMs
+- Update: We achieved a new state-of-art accuracy on "NewsCLIPpings+ Dataset" through our novel architecture, which employs simple cascaded transformer configurations. Preprint soon.
 
 ### DFSAR Analysis of Chandrayaan-2
 
 Dual Frequency SAR - (Synthetic Aperture Radar) Analysis
 
-The project involved the implementation of algorithms for the estimation of dielectric constants from Fully Polarimetric SAR Radar Imaging data for reducing ambiguities regarding the presence of Water-Ice in polar lunar craters.
+The project involved implementing algorithms to estimate dielectric constants from Fully Polarimetric SAR Radar Imaging data to reduce ambiguities regarding the presence of Water-Ice in polar lunar craters.
 
-An example of a SAR-Radar image shown in RGB. The three colour channels are each assigned to three different kinds of scattering effect of radio waves, with green channel representing the "Volumetric Scattering", which most closely resembles the scattering pattern of the much prized water-ice. 
+An example of a SAR-Radar image is shown in RGB. The three colour channels are each assigned to three different kinds of scattering effect of radio waves, with green channel representing the "Volumetric Scattering", which most closely resembles the scattering pattern of the much prized water-ice. 
 ![DFSAR Image](../include/DFSAR_images/image17.png)
 
-- Note the green walls which only mostly are seen on/around crater walls - regions which are permanently shadowed from sunlight and hence are most likely to still contain water ice.
-- The long stretched shape of the image is a result of how a SAR-radar would scan the land as it orbits around the moon.
+- Note the green walls, which are only mostly seen on/around crater walls - regions that are permanently shadowed from sunlight and hence are most likely to contain water ice still.
+- The image's long stretched shape results from how a SAR radar would scan the land as it orbits around the moon.
 
 ### RBMLE
 
 - Implementation and study of the **Reward Biased Maximum Likelihood Estimation (RBMLE)** method to solve the “exploration v/s exploitation problem” in adaptive control of Markov Decision Processes in Reinforcement Learning tasks.
-- Modeled the finite-time performance of RBMLE in Reinforcement Learning tasks, involving the problem of optimal control of unknown Markov Decision Processes.
+- Modeled the finite-time performance of RBMLE in Reinforcement Learning tasks involving the problem of optimal control of unknown Markov Decision Processes.
